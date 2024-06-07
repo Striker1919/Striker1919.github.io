@@ -21,7 +21,7 @@
 title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  a documentation and study aid for NVC by Marshall Rosenberg By Striker and Foxtrot
+  test lol
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
