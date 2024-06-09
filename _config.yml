@@ -21,7 +21,7 @@
 title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Documentation and Study-Aid Primarily for NVC, Stoicism, and Tim Fletcher's work
+  Documentation and Study-Aid Primarily for NVC, Stoicism, and Tim Fletcher's work. I might add Ward Farnsworth's work on the Socratic Method. "(reminder, Ward Farnsworth also wrote about chess)"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
